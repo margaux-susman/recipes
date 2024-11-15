@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2024-11-15] [Margaux Susman]
+Copyright (c) [2024-11-15] [Margaux Susman, Lorena Figueiredo]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
